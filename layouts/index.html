@@ -5,7 +5,7 @@
 
 <div class="strip">
     {{ range where .Site.Pages "Params.row" "1" }}
-        {{ .Render }}
+        {{ .Content }}
     {{ end }}
 </div>
 
@@ -15,7 +15,7 @@
             {{ range where .Site.Pages "Params.row" "2" }}
                 <div class="{{.Params.col}}">
                     <div class="cell">
-                        {{ .Render }}
+                        {{ .Content }}
                     </div>
                 </div>
             {{ end }}
@@ -28,7 +28,7 @@
     <div class="container">
         {{ range where .Site.Pages "Params.row" "3" }}
             <div class="cell col-md-4">
-                {{ .Render }}
+                {{ .Content }}
             </div>
         {{ end }}
     </div>

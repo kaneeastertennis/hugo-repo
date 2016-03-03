@@ -1,4 +1,4 @@
 all:
-	make -p ./public
+	mkdir -p ./public
 	hugo
 
