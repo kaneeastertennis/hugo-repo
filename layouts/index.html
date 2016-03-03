@@ -1,0 +1,43 @@
+{{ partial "header.html" }}
+
+
+
+
+<div class="strip">
+    {{ range where .Site.Pages "Params.row" "1" }}
+        {{ .Render }}
+    {{ end }}
+</div>
+
+<div class="strip">
+    <div class="container">
+        <div class="row">
+            {{ range where .Site.Pages "Params.row" "2" }}
+                <div class="{{.Params.col}}">
+                    <div class="cell">
+                        {{ .Render }}
+                    </div>
+                </div>
+            {{ end }}
+        </div>
+    </div>
+</div>
+
+
+<div class="strip">
+    <div class="container">
+        {{ range where .Site.Pages "Params.row" "3" }}
+            <div class="cell col-md-4">
+                {{ .Render }}
+            </div>
+        {{ end }}
+    </div>
+</div>
+
+
+
+
+
+
+
+{{ partial "footer.html" }}
