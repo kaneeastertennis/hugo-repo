@@ -27,11 +27,22 @@
 <div class="strip">
     <div class="container">
         {{ range where .Site.Pages "Params.row" "3" }}
-            <div class="cell col-md-4">
+            <div class="cell col-md-6">
                 {{ .Content }}
             </div>
         {{ end }}
     </div>
+</div>
+
+<div class="strip">
+    <div class="container">
+        {{ range where .Site.Pages "Params.row" "4" }}
+            <div class="cell col-md-6">
+                {{ .Content }}
+            </div>
+        {{ end }}
+    </div>
+
 </div>
 
 

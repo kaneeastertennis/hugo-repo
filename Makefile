@@ -1,6 +1,6 @@
 compile:
 	mkdir -p ./public
-	hugo
+	hugo server -w
 
 deploy: compile
 	cp -R ./public/* ../kaneeastertennis.github.io/
