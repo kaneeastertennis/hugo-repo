@@ -2,10 +2,9 @@
 
 
 
-
 <div class="strip">
     {{ range where .Site.Pages "Params.row" "1" }}
-        {{ .Content }}
+    <div class="{{.Params.class}}">{{ .Content }}</div>
     {{ end }}
 </div>
 
@@ -13,42 +12,38 @@
     <div class="container">
         <div class="row">
             {{ range where .Site.Pages "Params.row" "2" }}
-                <div class="{{.Params.col}}">
-                    <div class="cell">
-                        {{ .Content }}
-                    </div>
-                </div>
+            <div class="{{.Params.class}}"><div>{{ .Content }}</div></div>
             {{ end }}
         </div>
     </div>
 </div>
 
-
 <div class="strip">
     <div class="container">
-        {{ range where .Site.Pages "Params.row" "3" }}
-            <div class="cell col-md-6">
-                {{ .Content }}
-            </div>
-        {{ end }}
+        <div class="row">
+            {{ range where .Site.Pages "Params.row" "3" }}
+            <div class="{{.Params.class}}"><div>{{ .Content }}</div></div>
+            {{ end }}
+        </div>
     </div>
 </div>
 
 <div class="strip">
     <div class="container">
-        {{ range where .Site.Pages "Params.row" "4" }}
-            <div class="cell col-md-6">
-                {{ .Content }}
-            </div>
-        {{ end }}
+        <div class="row">
+            {{ range where .Site.Pages "Params.row" "4" }}
+            <div class="{{.Params.class}}"><div>{{ .Content }}</div></div>
+            {{ end }}
+        </div>
     </div>
-
 </div>
 
-
-
-
-
-
-
-{{ partial "footer.html" }}
+<div class="strip">
+    <div class="container">
+        <div class="row">
+            {{ range where .Site.Pages "Params.row" "5" }}
+            <div class="{{.Params.class}}"><div>{{ .Content }}</div></div>
+            {{ end }}
+        </div>
+    </div>
+</div>

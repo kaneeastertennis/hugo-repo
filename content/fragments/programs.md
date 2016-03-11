@@ -1,18 +1,13 @@
 +++
-row = "3"
-weight = 3
+row = "4"
+weight = 0
+class = "col-md-4 card"
 +++
 
-<h1>
-    <a class="link" href="/pages/leagues/">
-        Other Programs
-        <span class="glyphicon glyphicon-chevron-right"></span>
-    </a>
-</h1>
+# [Programs](/pages/programs/)
 
+We offer a variety of tennis programs.
 
-> We have several program.
-> 
-> - Adult Clinics
-> - Private lessons
-> - Kids summer camps
+- [Junior clinics](/pages/junior-clinics/)
+- [Adult clinics](/pages/adult-clinics/)
+- [Tennis Aerobics](/pages/tennis-aerobics/)

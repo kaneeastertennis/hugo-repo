@@ -1,6 +1,6 @@
 +++
 row = "2"
-col = "col-md-6"
+class = "col-md-8"
 +++
 
 # About Andrei
