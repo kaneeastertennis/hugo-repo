@@ -1,9 +1,9 @@
 +++
 row = "4"
 weight = 4
-class = "col-md-4 card"
+class = "col-md-3 card"
 +++
 
-# [Private Lessons](/pages/private-lessons/)
+# [Proshop](/pages/proshop/)
 
 

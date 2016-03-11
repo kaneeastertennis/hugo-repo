@@ -4,6 +4,5 @@ weight = 5
 class = "col-md-3 card"
 +++
 
-# [Gallery](/pages/private-lessons/)
-
+# [Tennis Holiday](/pages/tennis-holiday/)
 

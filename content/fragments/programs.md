@@ -10,4 +10,4 @@ We offer a variety of tennis programs.
 
 - [Junior clinics](/pages/junior-clinics/)
 - [Adult clinics](/pages/adult-clinics/)
-- [Tennis Aerobics](/pages/tennis-aerobics/)
+- [Tennis Aerobics](/pages/tennis-aerobics)

@@ -1,22 +1,24 @@
 +++
-Title = "Junior Clinics"
+Title = "Tennis Aerobics"
 class = "program"
 +++
 
-# May / June 2016 Junior Clinics (Outdoor)
+# Tennis Aerobics
 
 ---
 
 ## Payment
 
+- OTC Member / Adult Clinic Participants: Package of 4 / $40
+- Non-member: Package of 4 / $60
+- Must purchase pack of 4, can be used at any time during April to September
+
 {{< payment />}}
 
 ---
 
-## Schedule 
+## Schedule
 
-If you are not sure what to enroll your child in, please contact Kane Easter @
-905. 767. 2612 or email `kaneeastertennis@gmail.com`
 
 | Clinic #1 | Day | Time | Age | Level | # of Weeks | Early Pay | Cost | Location  |
 |-----------|-----|------|-----|-------|------------|-----------|------|-----------|

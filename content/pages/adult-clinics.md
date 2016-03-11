@@ -1,5 +1,5 @@
 +++
-Title = "Junior Clinics"
+Title = "Adult Clinics"
 class = "program"
 +++
 
@@ -14,6 +14,7 @@ class = "program"
 ---
 
 ## Schedule 
+
 
 If you are not sure what to enroll your child in, please contact Kane Easter @
 905. 767. 2612 or email `kaneeastertennis@gmail.com`
