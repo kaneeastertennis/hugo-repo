@@ -13,7 +13,7 @@ class = "program"
 - Non-member: Package of 4 / $60
 - Must purchase pack of 4, can be used at any time during April to September
 
-{{< payment />}}
+{{< payment >}}
 
 ---
 

@@ -9,7 +9,7 @@ class = "program"
 
 ## Payment
 
-{{< payment />}}
+{{< payment >}}
 
 ---
 
