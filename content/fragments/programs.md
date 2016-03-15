@@ -1,5 +1,5 @@
 +++
-row = "4"
+row = "cards-1"
 weight = 0
 class = "col-md-4 card"
 +++
