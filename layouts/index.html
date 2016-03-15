@@ -8,7 +8,7 @@
     {{ end }}
 </div>
 
-<div class="strip">
+<div class="strip" style="background:#CED8F6">
     <div class="container">
         <div class="row">
             {{ range where .Site.Pages "Params.row" "kane" }}
@@ -18,17 +18,7 @@
     </div>
 </div>
 
-<div class="strip">
-    <div class="container">
-        <div class="row">
-            {{ range where .Site.Pages "Params.row" "3" }}
-            <div class="{{.Params.class}}"><div>{{ .Content }}</div></div>
-            {{ end }}
-        </div>
-    </div>
-</div>
-
-<div class="strip">
+<div class="strip" style="background:#FBFBEF">
     <div class="container">
         <div class="row">
             {{ range where .Site.Pages "Params.row" "cards-1" }}
@@ -38,7 +28,7 @@
     </div>
 </div>
 
-<div class="strip">
+<div class="strip" style="background:#EFEFFB">
     <div class="container">
         <div class="row">
             {{ range where .Site.Pages "Params.row" "cards-2" }}

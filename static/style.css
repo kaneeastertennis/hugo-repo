@@ -81,7 +81,6 @@ table th {
 @media(min-width : 992px) {
     .card {
         height: 280px;
-        padding: 20px;
     }
 }
 
