@@ -1,6 +1,6 @@
 +++
 row = "kane"
-class = "col-md-8"
+class = "col-md-5"
 +++
 
 # About Andrei

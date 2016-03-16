@@ -1,6 +1,6 @@
 +++
 row = "kane"
-class = "col-md-4"
+class = "col-md-3"
 +++
 
 # Contact

@@ -1,7 +1,6 @@
 {{ partial "header.html" . }}
 
 
-
 <div class="strip">
     {{ range where .Site.Pages "Params.row" "frontpage" }}
     <div class="{{.Params.class}}">{{ .Content }}</div>
