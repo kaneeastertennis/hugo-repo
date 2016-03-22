@@ -1,4 +1,43 @@
-<script src="{{.Site.BaseURL}}/js/jquery-2.2.1.min.js"></script>
-<script src="{{.Site.BaseURL}}/js/bootstrap.min.js"></script>
+<script src="/js/jquery-2.2.1.min.js"></script>
+<script src="/js/bootstrap.min.js"></script>
+{{ if .Params.pdf }}
+<script src="/js/pdf.js"></script>
+<script>
+// Load the PDFs
+$("canvas[pdf]").each(function() {
+    var url = $(this).attr('pdf');
+    var canvas = this;
+
+    var div = $("<div>").addClass("pdf");
+    $(this).wrap(div);
+
+    if(url) {
+        PDFJS.disableWorker = true;
+        PDFJS.workerSrc = "/js/pdf.worker.js";
+        PDFJS.getDocument(url).then(function(pdf) {
+            pdf.getPage(1).then(function (page) {
+                var scale = canvas.width / page.getViewport(1.0).width;
+                var viewport = page.getViewport(scale);
+                var context = canvas.getContext('2d');
+
+                canvas.height = viewport.height;
+
+                var renderContext = {
+                  canvasContext: context,
+                  viewport: viewport
+                };
+                page.render(renderContext);
+            });
+        });
+
+        if($(canvas).attr("download")) {
+            $(canvas).after($("<a>")
+                    .addClass("label label-primary")
+                    .text("Direct download").attr('href', url));
+        }
+    }
+});
+</script>
+{{ end }}
 </body>
 </html>

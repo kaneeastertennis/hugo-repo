@@ -127,4 +127,14 @@ table th {
     }
 }
 
-
+/* =========== PDF ============== */
+div.pdf {
+    position: relative;
+}
+div.pdf > a {
+    display: inline-block;
+    font-size: 80%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}

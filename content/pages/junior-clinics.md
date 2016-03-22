@@ -1,6 +1,7 @@
 +++
 Title = "Junior Clinics"
 class = "program"
+pdf = "yes"
 +++
 
 # May / June 2016 Junior Clinics (Outdoor)
@@ -18,14 +19,4 @@ class = "program"
 If you are not sure what to enroll your child in, please contact Kane Easter @
 905. 767. 2612 or email `kaneeastertennis@gmail.com`
 
-<iframe
-src="https://docs.google.com/document/d/1lUN-a5kFq-Mb_D1EHxTTPLrxXktEKKuziXn0-PBXCWg/pub?embedded=true"></iframe>
-
-<style>
-iframe {
-border: none;
-min-width: 600px;
-height: 900px;
-}
-</style>
-
+<canvas width=800 pdf="/pdfs/JuniorClinic.pdf" download=yes></canvas>

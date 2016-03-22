@@ -1,6 +1,6 @@
 +++
 row = "kane"
-class = "col-md-5"
+class = "col-md-8"
 +++
 
 # About Andrei
@@ -18,4 +18,8 @@ attitude, saw him cited as one of the most charismatic players in the history of
 the game. As a result, he is credited for helping to revive the popularity of
 tennis during the 1990s.
 
+# Contact
 
+> Kane Easter <br>
+> 905-123-4567 <br>
+> kaneeastertennis@gmail.com <br>
