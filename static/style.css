@@ -122,14 +122,14 @@ table th {
 }
 @media(min-width: 992px) {
     .payment {
-        width: 50%;
-        margin-left: auto;
     }
 }
 
 /* =========== PDF ============== */
 div.pdf {
     position: relative;
+    width: 100%;
+    text-align: center;
 }
 div.pdf > a {
     display: inline-block;
@@ -137,4 +137,7 @@ div.pdf > a {
     position: absolute;
     top: 0;
     left: 0;
+}
+div.pdf > canvas {
+    display: inline-block;
 }

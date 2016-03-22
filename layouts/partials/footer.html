@@ -31,9 +31,17 @@ $("canvas[pdf]").each(function() {
         });
 
         if($(canvas).attr("download")) {
-            $(canvas).after($("<a>")
+            var a = $("<a>")
                     .addClass("label label-primary")
-                    .text("Direct download").attr('href', url));
+                    .text("Direct download").attr('href', url)
+                    .append(
+                            $("<i>")
+                            .addClass("fa fa-file-pdf-o")
+                            .css({
+                                marginLeft: 10,
+                            }));
+
+            $(canvas).after(a);
         }
     }
 });
