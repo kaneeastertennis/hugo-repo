@@ -1,7 +1,7 @@
 +++
 row = "cards-2"
-weight = 5
-class = "col-md-3 card"
+weight = 2
+class = "col-md-4 card"
 +++
 
 # [Tennis Holiday](/pages/tennis-holiday/)

@@ -1,3 +1,10 @@
+<div style="width: 100%;
+            text-align: right;
+            font-family: Roboto;
+            font-weight: 300;
+            padding: 10px 10px 10px 0;">
+    <p>Kane Easter, Copyright 2016 &copy;</p>
+</div>
 <script src="/js/jquery-2.2.1.min.js"></script>
 <script src="/js/bootstrap.min.js"></script>
 {{ if .Params.pdf }}
@@ -47,5 +54,12 @@ $("canvas[pdf]").each(function() {
 });
 </script>
 {{ end }}
+
+<script>
+// fix navbar padding
+if($(".navbar-fixed-top").size() > 0) {
+    $("body").css("margin-top", 50);
+}
+</script>
 </body>
 </html>

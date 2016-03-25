@@ -1,7 +1,7 @@
 +++
-row = "cards-2"
+row = "cards-3"
 weight = 5
-class = "col-md-3 card"
+class = "col-md-4 card"
 +++
 
 # [Gallery](/pages/private-lessons/)

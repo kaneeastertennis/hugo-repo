@@ -1,10 +1,10 @@
 +++
 row = "cards-1"
 weight = 0
-class = "col-md-4 card"
+class = "col-md-6 card"
 +++
 
-# [Programs](/pages/programs/)
+# Programs
 
 We offer a variety of tennis programs.
 
