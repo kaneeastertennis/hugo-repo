@@ -4,6 +4,12 @@ weight = 1
 class = "col-md-4 card"
 +++
 
-# [Private Lessons](/pages/private-lessons)
+<h1 style=text-align:center>
+    <a href="/pages/private-lessons">
+    Private Lessons <br>
+    & <br>
+    Coaching Staff
+    </a>
+</h1>
 
 
