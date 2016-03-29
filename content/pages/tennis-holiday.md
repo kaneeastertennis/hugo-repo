@@ -1,17 +1,17 @@
 +++
-Title = "Tennis Holiday"
+Title = "Tennis Holidays"
 class = "tennis-holiday"
 pdf = "yes"
 +++
 
-# Tennis Holiday
+# Tennis Holidays
 
 ## About
 
 > My Dad and I have run St. Lucia Tennis holidays for Oshawa Tennis Club
 > players, their friends and other Durham region players for the last 3 years.
 > The idea behind the tennis holiday was to give a unique tour of St. Lucia with
-> my dad and myself who grew up on the island.  A different holiday from what
+> my dad and myself who grew up on the island.  This is a a different holiday from what
 > you would normally experience at an all inclusive hotel vacation. We stayed at
 > the beautiful Landings Hotel resort St. Lucia the last 3 years and the trips
 > have left the members with a lifetime memory.  

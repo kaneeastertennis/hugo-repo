@@ -4,5 +4,5 @@ weight = 2
 class = "col-md-4 card"
 +++
 
-# [Tennis Holiday](/pages/tennis-holiday/)
+# [Tennis Holidays](/pages/tennis-holiday/)
 
