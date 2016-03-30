@@ -1,9 +1,9 @@
 +++
 row = "cards-1"
-weight = 1
+weight = 2
 class = "col-md-3 card"
 +++
 
-# [Summer Camps](/pages/camps/)
+# [Club Leagues](/pages/club-leagues/)
 
 
