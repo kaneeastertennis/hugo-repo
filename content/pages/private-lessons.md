@@ -31,13 +31,13 @@ class = "private-lessons"
     </tr>
     <tr>
         <td> 1 hour, 3 people </td>
-        <td> $18 each </td>
+        <td> $20 each </td>
         <td> $17 each </td>
         <td> $15 each </td>
     </tr>
     <tr>
         <td> 1 hour, 4 people </td>
-        <td> $14 each </td>
+        <td> $15 each </td>
         <td> $13 each </td>
         <td> $12 each </td>
     </tr>
