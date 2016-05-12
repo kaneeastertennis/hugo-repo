@@ -7,6 +7,7 @@ pdf = "yes"
 # Tennis Holidays
 
 ## About
+---------
 
 > My Dad and I have run St. Lucia Tennis holidays for Oshawa Tennis Club
 > players, their friends and other Durham region players for the last 3 years.
@@ -36,6 +37,15 @@ pdf = "yes"
 > <p>Regards,</p>
 > <i>Kane Easter</i>
 > </div>
+>
+> <figure>
+> <img src="/gallery/tennis-holiday/tennis-holiday-2016.jpg"></img>
+> <figcaption></figcaption>
+> </figure>
+>
+>
+
+## Information
 
 ---
 
@@ -48,5 +58,11 @@ pdf = "yes"
     margin-right: auto;
     text-align: justify;
     border: none;
+}
+figure {
+    margin: 20px 0 20px 0;
+}
+figure img {
+    width: 100%;
 }
 </style>
