@@ -4,7 +4,7 @@ class = "program"
 pdf = "yes"
 +++
 
-# May / June 2016 Junior Clinics (Outdoor)
+# Winter Adult Clinics 2017
 
 ---
 
