@@ -4,7 +4,7 @@ class = "program"
 pdf = "yes"
 +++
 
-# Winter Adult Clinics 2017
+# Adult Clinics
 
 ---
 

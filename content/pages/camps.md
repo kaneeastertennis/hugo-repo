@@ -16,6 +16,6 @@ pdf = "yes"
 
 ---
 
-<canvas download=1 pdf="/pdfs/summer-camp-2016.pdf" width=800></canvas>
+<canvas download=1 pdf="/pdfs/summer-camp.pdf" width=800></canvas>
 
 

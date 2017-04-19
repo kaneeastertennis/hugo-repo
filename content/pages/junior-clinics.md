@@ -4,7 +4,7 @@ class = "program"
 pdf = "yes"
 +++
 
-# Winter Junior Clinics 2017
+# Junior Clinics
 
 ---
 
