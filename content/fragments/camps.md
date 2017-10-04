@@ -1,9 +1,0 @@
-+++
-row = "cards-1"
-weight = 1
-class = "col-md-3 card"
-+++
-
-# [Summer Camps](/pages/camps/)
-
-

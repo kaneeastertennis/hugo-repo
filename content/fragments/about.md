@@ -1,8 +1,3 @@
-+++
-row = "kane"
-class = "col-md-8 about"
-+++
-
 # About Kane Easter
 
 <img class="embedded" src="/images/kaneeaster-sm.png"></img>
@@ -41,7 +36,7 @@ Enjoy the game!
 
 
 <style>
-.about p {
+p {
 text-align: justify;
 }
 </style>

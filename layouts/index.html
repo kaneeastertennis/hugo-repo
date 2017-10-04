@@ -1,39 +1,91 @@
 {{ partial "header.html" . }}
 
+<style>
+    .box {
+        flex: 1;
+        display: flex;
+        min-width: 33%;
+        max-width: 33%;
+        min-height: 200px;
+        padding: 10px;
+    }
+    .box a {
+        display: flex;
+        flex: 1;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        font-size: 14pt;
+        padding: 0;
+        margin: 0;
+        background: RGBA(0, 0, 0, 0.1);
+        color: teal;
+        transition: all 0.4s;
+    }
+    .box:hover a {
+        background: #eee;
+        font-size: 18pt;
+    }
+</style>
 
-<div class="strip">
-    {{ range where .Site.Pages "Params.row" "frontpage" }}
-    <div class="{{.Params.class}}">{{ .Content }}</div>
-    {{ end }}
-</div>
-
-<!-- About Kane / Contact / Twitter -->
-<div class="strip" style="background:#fff">
-    <div class="container">
-        <div class="row">
-            {{ range where .Site.Pages "Params.row" "kane" }}
-            <div class="{{.Params.class}}"><div>{{ .Content }}</div></div>
+<div class="container-fluid">
+    <div>
+        {{ range where .Site.Pages "File.BaseFileName" "frontpage" }}
+            <div>{{.Content}}</div>
+        {{ end }}
+    </div>
+    <div class="row">
+        <div class="col-sm-6">
+            {{ range where .Site.Pages "File.BaseFileName" "about" }}
+            <div>{{ .Content }}</div>
+            {{ end }}
+        </div>
+        <div class="col-sm-6">
+            {{ range where .Site.Pages "File.BaseFileName" "otc" }}
+            <div class="alert alert-info"
+                style="margin: 20px;
+                       padding: 10px 50px">
+                <div>{{ .Content }}</div>
+            </div>
             {{ end }}
         </div>
     </div>
-</div>
 
-<div class="strip" style="background:#FBFBEF">
-    <div class="container">
-        <div class="row">
-            {{ range where .Site.Pages "Params.row" "cards-1" }}
-            <div class="{{.Params.class}}"><div>{{ .Content }}</div></div>
+    <div class="row">
+        <div class="col-sm-4">
+            {{ range where .Site.Pages "File.BaseFileName" "tweets" }}
+            <div style="border: 5px solid teal;
+                        border-right: 50px solid teal;
+                        padding: 10px">{{ .Content }}</div>
             {{ end }}
         </div>
-    </div>
-</div>
-
-<div class="strip" style="background:#EFEFFB">
-    <div class="container">
-        <div class="row">
-            {{ range where .Site.Pages "Params.row" "cards-2" }}
-            <div class="{{.Params.class}}"><div>{{ .Content }}</div></div>
-            {{ end }}
+        <div class="col-sm-8">
+            <div style="display: flex; flex-flow: row wrap; width: 100%;">
+                <div class="box">
+                    <a href="/pages/junior-clinics">Junior Clinics</a>
+                </div>
+                <div class="box">
+                    <a href="/pages/adult-clinics">Adult Clinics</a>
+                </div>
+                <div class="box">
+                    <a href="/pages/tennis-aerobics">Tennis Aerobics</a>
+                </div>
+                <div class="box">
+                    <a href="/pages/club-leagues">Club Leagues</a>
+                </div>
+                <div class="box">
+                    <a href="/pages/private-lessons">Private Lessons &amp;<br> Coaching Staff</a>
+                </div>
+                <div class="box">
+                    <a href="/pages/camps">Summer Camps</a>
+                </div>
+                <div class="box">
+                    <a href="/pages/tennis-holiday">Tennis Holidays</a>
+                </div>
+                <div class="box">
+                    <a href="/pages/proshop">Proshop</a>
+                </div>
+            </div>
         </div>
     </div>
 </div>
