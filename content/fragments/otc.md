@@ -24,9 +24,3 @@ Until then, we continue to operate as a seasonal club, with summer operations
 primarily at the Mary St. courts, and winter operations at the Oshawa Civic
 Dome.
 
-<div style="text-align: right">
-  <a href="https://www.facebook.com/oshawatennisclub/">
-    <i class="fa fa-facebook-official"></i>
-  </a>
-</div>
-

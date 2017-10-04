@@ -33,10 +33,3 @@ Enjoy the game!
 > 905-767-2612 <br>
 > PO Box 30075 Brooklin Towne Centre, Whitby, ON, L1M 0B5 <br>
 > kaneeastertennis@gmail.com <br>
-
-
-<style>
-p {
-text-align: justify;
-}
-</style>

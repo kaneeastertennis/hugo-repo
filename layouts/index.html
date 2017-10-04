@@ -26,6 +26,9 @@
         background: #eee;
         font-size: 18pt;
     }
+    .about p {
+        text-align: justify;
+    }
 </style>
 
 <div class="container-fluid">
@@ -35,7 +38,7 @@
         {{ end }}
     </div>
     <div class="row">
-        <div class="col-sm-6">
+        <div class="col-sm-6 about">
             {{ range where .Site.Pages "File.BaseFileName" "about" }}
             <div>{{ .Content }}</div>
             {{ end }}
