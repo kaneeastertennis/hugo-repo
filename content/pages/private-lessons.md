@@ -66,29 +66,6 @@ class = "private-lessons"
 >- Former National and Provincial Head Coach
 - High Performance Coach for over 30 years
    
-## Bianca Easter.  Adult/Junior Coach
-
->- Lettered NCAA Division 1 University of Detroit Tennis and Soccer
-    
-## Joe Cambareri: Adult/Junior Coach
-
->- Certified Instructor Tennis Canada
-
-## Glenn Cunningham: Adult/Junior Coach
-
->- Certified Instructor Tennis Canada
-
-
-## Nick DeGuzman: Junior/summer camp coach
-
->- Certified Instructor Tennis Canada
-- Provincially ranked junior
-
-## Jonah Baryliuk: Junior/summer camp coach
-
->- Certified Instructor Tennis Canada
-- Currently enrolled at Wilfrid Laurier University
-
 ## Gabriel Ho: Junior Coach
 
 >- Currently enrolled at UOIT
