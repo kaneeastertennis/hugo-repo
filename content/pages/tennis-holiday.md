@@ -45,7 +45,7 @@ contact us by email at `kaneeastertennis@gmail.com` or `john@johneaster.com`.
 
 ---
 
-<canvas width=800 download=yes pdf=/pdfs/tennis-holiday-2017.pdf></canvas>
+<canvas width=800 download=yes pdf=/pdfs/tennis-holiday.pdf></canvas>
 
 <style>
 .tennis-holiday blockquote {
