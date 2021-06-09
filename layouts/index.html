@@ -38,11 +38,13 @@
         {{ end }}
     </div>
     <div class="row">
-        <div class="col-sm-6 about">
+        <div class="col-sm-2"></div>
+        <div class="col-sm-8 about">
             {{ range where .Site.Pages "File.BaseFileName" "about" }}
             <div>{{ .Content }}</div>
             {{ end }}
         </div>
+        <!--
         <div class="col-sm-6">
             {{ range where .Site.Pages "File.BaseFileName" "otc" }}
             <div class="alert alert-info"
@@ -52,6 +54,7 @@
             </div>
             {{ end }}
         </div>
+        -->
     </div>
 
     <div class="row">

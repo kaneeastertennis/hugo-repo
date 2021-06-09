@@ -14,8 +14,7 @@ Bachelors in Chemical Engineering. After travelling for a year, I made my final
 stop in Whitby, Ontario in 2001 where I still call home today.
 
 From 1996 to 2005, I represented the Eastern Caribbean and St. Lucia in the Davis
-Cup I am now the current Head Pro of the [Oshawa Tennis
-Club](http://www.oshawatennisclub.com/) and a certified Club Pro
+Cup.  I am now a certified Club Pro
 1 with Tennis Canada.
 
 Personally I am now a husband and father of 3 children, 6, 5 and 3, who are all
