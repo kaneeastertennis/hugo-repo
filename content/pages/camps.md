@@ -6,16 +6,6 @@ pdf = "yes"
 
 # Summer Camps
 
-## Payment
+## Please contact Kane Easter for information
 
----
-
-{{< payment >}}
-
-## Pamphlet
-
----
-
-<canvas download=1 pdf="/pdfs/summer-camp.pdf" width=800></canvas>
-
-
+{{< contact >}}

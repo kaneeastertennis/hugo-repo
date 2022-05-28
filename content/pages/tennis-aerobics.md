@@ -6,19 +6,8 @@ pdf = "yes"
 
 # Tennis Aerobics
 
----
+## Please contact Kane Easter for information
 
-## Payment
-
-- OTC Member / Adult Clinic Participants: Package of 4 / $40
-- Non-member: Package of 4 / $60
-- Must purchase pack of 4, can be used at any time during April to September
-
-{{< payment >}}
-
----
-
-## Schedule
+{{< contact >}}
 
 
-<canvas width=800 download=yes pdf=/pdfs/TennisAerobics.pdf></canvas>

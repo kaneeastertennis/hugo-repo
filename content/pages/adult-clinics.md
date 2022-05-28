@@ -6,15 +6,8 @@ pdf = "yes"
 
 # Adult Clinics
 
----
+## Please contact Kane Easter for information
 
-## Payment
+{{< contact >}}
 
-{{< payment >}}
-
----
-
-## Schedule 
-
-
-<canvas download=yes pdf=/pdfs/AdultClinics.pdf width=800></canvas>
+<!-- <canvas download=yes pdf=/pdfs/AdultClinics.pdf width=800></canvas> -->

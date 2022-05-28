@@ -6,6 +6,8 @@ pdf = "yes"
 
 # Club Leagues
 
-<canvas download=1 pdf="/pdfs/ClubLeagues.pdf" width=800></canvas>
+## Please contact Kane Easter for information
+
+{{< contact >}}
 
 
