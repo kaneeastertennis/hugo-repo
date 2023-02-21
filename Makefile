@@ -1,6 +1,6 @@
 dev:
 	mkdir -p ./public
-	linux/hugo server -w
+	linux/hugo server -w --bind 0.0.0.0
 
 deploy:
 	mkdir -p ./public
