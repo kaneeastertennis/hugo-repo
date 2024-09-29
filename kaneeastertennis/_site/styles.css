@@ -1,0 +1,16 @@
+/* css styles */
+
+.coach.callout .callout-body ul li {
+    font-size: 120%;
+}
+
+.coach.callout .callout-title-container {
+    font-size: 150%;
+}
+
+.cover {
+    width: 100%;
+    background-image: url("images/tennis.png");
+    background-size: cover;
+    background-position:center;
+}

@@ -1,0 +1,56 @@
+---
+title: "Kane Easter Tennis 🎾"
+format: html
+toc-title: "Table of Content"
+toc-expand: true
+---
+
+<div class="cover" style="height: 400px"></div>
+
+
+::: {.callout-note .coach}
+# Contact: Kane Easter
+
+- Phone: <a href="tel:19057672612">905-767-2612</a>
+- Email: <a href="mailto:kaneeastertennis@gmail.com">kaneeastertennis@gmail.com</a>
+:::
+
+## Programs
+
+### Junior Clinics
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSzn3QbGmFMoJvkfWpsbjiK_KE28PCj130yFz60xlVudI-Zpt9S3JgjBrKTl9gvPiT2CL0PbonivAqb/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+### Private Lessons
+
+::: {.callout-tip .coach}
+# Kane Easter.  **Head Pro Oshawa Tennis Club**
+
+- Former Tennis Director, Campus Tennis Centre
+- Played 10 years of Eastern Caribbean / St.Lucia Davis Cup Team
+- Lettered/Captain NCAA Division 1 University of Louisville Tennis
+- Certified Club Pro 1 Tennis Canada and Cardio Tennis Certified
+:::
+
+::: {.callout-tip .coach}
+# John Easter.  **Adult Program Head Pro**
+
+- Coaching and playing career spans over 40 years in the Caribbean, UK, Spain, USA and Canada.
+- Former Sports and Tennis Director Cunard Ships and Resorts International
+- Certified Coach Tennis Canada and the British Tennis Coaching Association
+:::
+
+::: {.callout-tip .coach}
+# Jonah Baryliuk. **Junior/Summer Camp Coach**
+
+- Certified Instructor Tennis Canada
+- Currently enrolled at Wilfrid Laurier University
+:::
+
+::: {.callout-tip .coach}
+# Gabriel Ho. **Junior Coach/Summer Camp Coach**
+:::
+
+### Adult Clinics and Tennis Aerobics
+
+Contact Kane directly for details.
