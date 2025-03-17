@@ -17,6 +17,10 @@ toc-expand: true
 
 ## Programs
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSNYOQyq6E2NJ368vAZNMFIJCb0T7vd4jkH0IHuZEdk2vJKW0yd6uMcg-stPL-_8sHRvkkRvSL1ypOO/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+<a class="btn btn-primary" href="files/2025_oshawa_registration_waiver.pdf">Download Registration Form Here (PDF)</a>
+
 ### Junior Clinics
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSzn3QbGmFMoJvkfWpsbjiK_KE28PCj130yFz60xlVudI-Zpt9S3JgjBrKTl9gvPiT2CL0PbonivAqb/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
